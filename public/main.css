@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: "DotGothic";
+    font-style: normal;
+    src: url("../public/fonts/DotGothic.ttf");
+    }
+
+@font-face {
+    font-family: "Handjet";
+    font-style: normal;
+    src: url("../public/fonts/Handjet.ttf");
+    }
+
+html {
+    background-color: rgb(229, 230, 248);
+}
+
+h1 {
+    font-family: Handjet;
+    font-weight: 180;
+    color: darkblue;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
