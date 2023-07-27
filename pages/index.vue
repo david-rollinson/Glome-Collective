@@ -16,7 +16,7 @@ console.log(
 body {
     /*Declare and initialise variables here.*/
     --h1-font-size: 90px;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .title-header {
