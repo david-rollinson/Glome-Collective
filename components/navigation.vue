@@ -1,10 +1,12 @@
 <template>
+    <nav>
     <div class="navigation">
         <ul><li><nuxt-link to="/">HOME</nuxt-link></li>
             <li><nuxt-link to="/about">ABOUT</nuxt-link></li>
             <li><nuxt-link to="/work">WORK</nuxt-link></li>
             <li><nuxt-link to="/contact">CONTACT</nuxt-link></li></ul>
     </div>
+    </nav>
 </template>
 
 <script>
@@ -35,5 +37,9 @@
     /* display:inline; */
     text-align: left;
     margin: 10px 10px;
+}
+
+.router-link-exact-active {
+    color: black;
 }
 </style>

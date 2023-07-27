@@ -1,5 +1,4 @@
 <template>
-    <navigation />
     <div class="title-header">
         <h1>glome studio</h1>
     </div>

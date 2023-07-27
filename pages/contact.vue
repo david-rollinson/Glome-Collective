@@ -1,5 +1,4 @@
 <template>
-    <navigation />
     <div class="contact-card">
         <h1>contact: <a href="https://www.instagram.com/delta.functions/" target="blank">@delta.functions</a></h1>
     </div>

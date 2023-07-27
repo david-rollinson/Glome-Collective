@@ -15,9 +15,21 @@ html {
     background-color: rgb(229, 230, 248);
 }
 
+::selection {
+    color: blue;
+}
+
 h1 {
     font-family: Handjet;
     font-weight: 180;
+    color: darkblue;
+}
+
+h3 {
+    color: darkblue;
+}
+
+p {
     color: darkblue;
 }
 

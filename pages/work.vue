@@ -1,5 +1,4 @@
 <template>
-    <navigation />
     <div class="text-container" style="width:85%;">
         <video width="300" controls>
         <source src="/video/exquisite_horpse.mp4" type="video/mp4">
