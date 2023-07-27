@@ -2,13 +2,13 @@
 @font-face {
     font-family: "DotGothic";
     font-style: normal;
-    src: url("../public/fonts/DotGothic.ttf");
+    src: url("/fonts/DotGothic.ttf");
     }
 
 @font-face {
     font-family: "Handjet";
     font-style: normal;
-    src: url("../public/fonts/Handjet.ttf");
+    src: url("/fonts/Handjet.ttf");
     }
 
 html {
@@ -25,4 +25,17 @@ a {
     text-decoration: none;
     color: darkblue;
 }
+
+a:hover {
+    color: red;
+}
+
+.text-container{
+    position:absolute;
+    width:70%;
+    left: 15%;
+    top: 30%;
+    font-family: DotGothic;
+    /* text-align: center; */
+  }
 

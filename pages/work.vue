@@ -1,7 +1,7 @@
 <template>
     <navigation />
-    <div>
-      This is the {{ this.$route.name }} page.
+    <div class="text-container">
+        Work coming soon.
     </div>
   </template>
   

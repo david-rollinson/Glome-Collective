@@ -1,7 +1,7 @@
 <template>
     <navigation />
     <div class="title-header">
-        <h1>Glome Studio</h1>
+        <h1>glome studio</h1>
     </div>
 </template>
 

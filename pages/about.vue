@@ -1,7 +1,14 @@
 <template>
   <navigation />
   <div>
-    This is the {{ this.$route.name }} page.
+  <div class="text-container">
+      <div class="about-info">
+        <p>Glome Studio are a creative technologist collective recently formed out of 'Delta Functions' residency at Thin Air, The Beams.
+          A con(glome)rate of talent across many backgrounds, Glome Studio aims to invite audiences into computational creativity through the development
+          of participatory, performant digital installations within gallery and commercial contexts.
+        </p>
+      </div>
+  </div>
   </div>
 </template>
 
@@ -19,5 +26,9 @@ computed:{
 </script>
 
 <style scoped>
+
+.text-container.about-info{
+  /* text-align: center; */
+}
 
 </style>
